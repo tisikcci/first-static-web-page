@@ -310,7 +310,7 @@ img{
 }
 
 .index-foot-list .food-item .food-price{
-    float: right;
+	float: right;
 }
 .index-foot-list .food-item .star-bar{
 	font-size: 0;
@@ -332,7 +332,7 @@ img{
 
 .index-pics{
 	margin-bottom: 200px;
-    height: 432px;
+	height: 432px;
 }
 
 .index-pics .pic-col{
